@@ -5,7 +5,7 @@
                 T-1: https://cp-algorithms.com/algebra/factorization.html
                 T-2: https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/
                 
-            >>> Implementation:O(N sqrt(N))
+            >>> Implementation:O(N log(log(N)))
     
                 int n;
                 vector<int> primefactor;
