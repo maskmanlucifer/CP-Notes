@@ -6,7 +6,8 @@
 
 
     >>> Implementation :
-
+        
+        const ll N=1e5; 
         void pre(string s,ll *z)
         {
             ll n=s.size();
