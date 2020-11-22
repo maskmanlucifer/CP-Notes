@@ -1,4 +1,4 @@
-                                     >> Z's Algorithm 
+                            >> Z's Algorithm 
     >>> Resources :
 
     1.  https://www.youtube.com/watch?v=CpZh4eF8QBw
