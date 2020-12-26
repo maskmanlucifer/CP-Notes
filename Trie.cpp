@@ -102,3 +102,6 @@
                
                 Problem-2: https://codeforces.com/contest/706/problem/D
                 Solution : https://codeforces.com/contest/706/submission/87276298
+
+                Problem-2: https://codeforces.com/contest/842/problem/D
+                Solution : https://codeforces.com/contest/842/submission/102367433
