@@ -4,8 +4,9 @@
 
 <h1 align="center" id="string">String</h1>
 <div align="center">
-<a href="#to">Go to Top</a>
+<a href="#top">Go to Top</a>
 </div>
+<br>
 <div align="center">
 
 | Topic | Link | 
@@ -20,8 +21,9 @@
 
 <h1 align="center" id="tree">Tree</h1>
 <div align="center">
-<a href="#to">Go to Top</a>
+<a href="#top">Go to Top</a>
 </div>
+<br>
 <div align="center">
 
 | Topic | Link | 
@@ -39,8 +41,9 @@
 
 <h1 align="center" id="graph">Graph</h1>
 <div align="center">
-<a href="#to">Go to Top</a>
+<a href="#top">Go to Top</a>
 </div>
+<br>
 <div align="center">
 
 | Topic | Link | 
@@ -79,8 +82,9 @@
 
 <h1 align="center" id="dp">DP</h1>
 <div align="center">
-<a href="#to">Go to Top</a>
+<a href="#top">Go to Top</a>
 </div>
+<br>
 <div align="center">
 
 | Topic | Link | 
@@ -93,8 +97,9 @@
 
 <h1 align="center" id="misc">Misc</h1>
 <div align="center">
-<a href="#to">Go to Top</a>
+<a href="#top">Go to Top</a>
 </div>
+<br>
 <div align="center">
 
 | Topic | Link | 
