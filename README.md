@@ -1,6 +1,6 @@
 # <p align="center" id="top">CP Notes</p>
 ## <p align="center">I am creating this repository for revisting Algorithm and keeping track of my learnings</p>
-### <p align="center">| <a href="#string">String</a> | <a href="#tree">Tree</a> | <a href="#graph">Graph</a> |<a href="#math">Math</a> |<a href="#dp">DP</a> |<a href="#misc">Misc</a> |</p>
+<p align="center">| <a href="#string">String</a> | <a href="#tree">Tree</a> | <a href="#graph">Graph</a> |<a href="#math">Math</a> |<a href="#dp">DP</a> |<a href="#misc">Misc</a> |</p>
 
 <h1 align="center" id="string">String</h1>
 <div align="center">
