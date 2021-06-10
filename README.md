@@ -63,8 +63,9 @@
 
 <h1 align="center" id="math">Math</h1>
 <div align="center">
-<a href="#to">Go to Top</a>
+<a href="#top">Go to Top</a>
 </div>
+<br>
 <div align="center">
 
 | Topic | Link | 
