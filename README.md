@@ -1,8 +1,11 @@
-# <p align="center">CP Notes</p>
+# <p align="center" id="top">CP Notes</p>
 ## <p align="center">I am creating this repository for revisting Algorithm and keeping track of my learnings</p>
 ### <p align="center">| <a href="#string">String</a> | <a href="#tree">Tree</a> | <a href="#graph">Graph</a> |<a href="#math">Math</a> |<a href="#dp">DP</a> |<a href="#misc">Misc</a> |</p>
 
 <h1 align="center" id="string">String</h1>
+<div align="center">
+<a href="#to">Go to Top</a>
+</div>
 <div align="center">
 
 | Topic | Link | 
@@ -16,6 +19,9 @@
 </div>
 
 <h1 align="center" id="tree">Tree</h1>
+<div align="center">
+<a href="#to">Go to Top</a>
+</div>
 <div align="center">
 
 | Topic | Link | 
@@ -32,6 +38,9 @@
 </div>
 
 <h1 align="center" id="graph">Graph</h1>
+<div align="center">
+<a href="#to">Go to Top</a>
+</div>
 <div align="center">
 
 | Topic | Link | 
@@ -50,6 +59,9 @@
 
 <h1 align="center" id="math">Math</h1>
 <div align="center">
+<a href="#to">Go to Top</a>
+</div>
+<div align="center">
 
 | Topic | Link | 
 |:----:|:----:| 
@@ -67,6 +79,9 @@
 
 <h1 align="center" id="dp">DP</h1>
 <div align="center">
+<a href="#to">Go to Top</a>
+</div>
+<div align="center">
 
 | Topic | Link | 
 |:----:|:----:| 
@@ -78,6 +93,9 @@
 
 <h1 align="center" id="misc">Misc</h1>
 <div align="center">
+<a href="#to">Go to Top</a>
+</div>
+<div align="center">
 
 | Topic | Link | 
 |:----:|:----:| 
@@ -86,6 +104,7 @@
 | Sparse Table| |
 <br>
 </div>
+
 
 
 
